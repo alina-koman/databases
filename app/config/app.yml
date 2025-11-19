@@ -1,0 +1,5 @@
+db:
+  host: localhost
+  database: kindergartens
+  user: root
+  password: root   
